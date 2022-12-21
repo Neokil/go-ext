@@ -1,0 +1,9 @@
+!.gitignore
+gitstats
+fig.yml
+.DS_Store
+.idea
+
+#vscode delve
+.vscode
+.envrc
